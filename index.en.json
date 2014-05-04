@@ -1,0 +1,36 @@
+{
+    "_author": "Proplex",
+    "_language": "English",
+    "_comment": "Only translate from this file, not the others!",
+    "_ind": 0,
+
+    "lf_title": "Tox: A New Kind of Instant Messaging",
+
+    "nv_home": "Home",
+    "nv_about": "About",
+    "nv_features": "Features",
+    "nv_contribute": "Contribute",
+    "nv_wiki": "Wiki",
+    "slogan": "A New Kind of Instant Messaging",
+    "downloads": "Downloads",
+   
+    "os_choose": "Please choose your operating system.",
+    "os_fail": "We weren't able to detect your operating system.",
+    "os_detected_wrong": "Get Tox for ",
+    "os_windows": "Windows",
+    "os_mac": "Macintosh",
+    "os_linux": "Linux",
+    "os_iphone": "iOS",
+    "os_android": "Android",
+    "os_other": "Other",
+    "os_os": "Operating System",
+    "os_arch_32": "32 bit",
+    "os_arch_64": "64 bit",
+ 
+
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. Be careful!",
+    "download_started": "Your download has started. Thanks for chosing Tox!",
+    "download_started2": "Your download has started. Happy Toxing!",
+    "download_compile": "Automated compilation scripts"
+}
+
