@@ -26,6 +26,7 @@
     "os_os": "Operating System",
     "os_arch_32": "32 bit",
     "os_arch_64": "64 bit",
+    "os_arch_gen": "Generic",
  
 
     "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. Be careful!",
