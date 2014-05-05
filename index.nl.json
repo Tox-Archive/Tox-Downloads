@@ -1,36 +1,36 @@
 {
-    "_author": "Proplex",
-    "_language": "English",
-    "_comment": "Only translate from this file, not the others!",
+    "_author": "notadecent",
+    "_language": "Nederlands",
+    "_comment": "Hoe kunnen er zomaar 276 schoolmeisjes in Nigeria vermist raken?",
     "_ind": 0,
 
-    "lf_title": "Tox: A New Kind of Instant Messaging",
+    "lf_title": "Tox: Een nieuw soort instant messagingprogramma",
 
     "nv_home": "Home",
-    "nv_about": "About",
-    "nv_features": "Features",
-    "nv_contribute": "Contribute",
+    "nv_about": "Over",
+    "nv_features": "Mogelijkheden",
+    "nv_contribute": "Help mee",
     "nv_wiki": "Wiki",
-    "slogan": "A New Kind of Instant Messaging",
+    "slogan": "Een nieuw soort instant messaging",
     "downloads": "Downloads",
 
-    "os_choose": "Please choose your operating system.",
-    "os_fail": "We weren't able to detect your operating system.",
-    "os_detected_wrong": "Get Tox for ",
+    "os_choose": "Kies uw besturingssysteem.",
+    "os_fail": "Er kan niet opgemaakt worden welk besturingssysteem u gebruikt.",
+    "os_detected_wrong": "Download Tox voor op ",
     "os_windows": "Windows",
     "os_mac": "Macintosh",
     "os_linux": "Linux",
     "os_iphone": "iOS",
     "os_android": "Android",
-    "os_other": "Other",
-    "os_os": "Operating System",
-    "os_arch_32": "32 bit",
-    "os_arch_64": "64 bit",
+    "os_other": "Andere",
+    "os_os": "Besturingssysteem",
+    "os_arch_32": "32-bits",
+    "os_arch_64": "64-bits",
     "os_arch_gen": "Generic",
 
 
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. Be careful!",
-    "download_started": "Your download has started. Thanks for choosing Tox!",
-    "download_started2": "Your download has started. Happy Toxing!",
-    "download_compile": "Automated compilation scripts"
+    "download_warning": "De Nightlies zijn niet voor de doorsnee gebruiker, Verwacht bugs, crashes, en vele frustratie! Wees gewaarschuwd!"
+    "download_started": "Uw download is gestart. Bedankt voor het kiezen voor Tox!",
+    "download_started2": "Uw download is compleet, veel Tox-plezier!",
+    "download_compile": "Geautomatiseerde compilatiescripts"
 }
