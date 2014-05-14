@@ -13,7 +13,7 @@
     "nv_wiki": "Wiki",
     "slogan": "全新的即時通訊",
     "downloads": "下載",
-   
+
     "os_choose": "請選擇您的操作系統。",
     "os_fail": "無法確認您的操作系統。",
     "os_detected_wrong": "下載版本",
@@ -27,10 +27,10 @@
     "os_arch_32": "32位元",
     "os_arch_64": "64位元",
     "os_arch_gen": "一般",
- 
+
 
     "download_warning": "心軟體弱的用戶，請勿用Nightlies版。您可能會遭遇到軟體錯誤以及大量的挫折。請三思而行！",
     "download_started": "您的下載已經開始了。謝謝您選擇了Tox！",
-    "download_started2": "您的下載已經開始了. 祝您快樂地"Tox"著！",
+    "download_started2": "您的下載已經開始了. 祝您快樂地'Tox'著！",
     "download_compile": "Automated compilation scripts"
 }
