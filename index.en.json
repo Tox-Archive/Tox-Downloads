@@ -13,7 +13,7 @@
     "nv_wiki": "Wiki",
     "slogan": "A New Kind of Instant Messaging",
     "downloads": "Downloads",
-   
+
     "os_choose": "Please choose your operating system.",
     "os_fail": "We weren't able to detect your operating system.",
     "os_detected_wrong": "Get Tox for ",
@@ -27,11 +27,21 @@
     "os_arch_32": "32 bit",
     "os_arch_64": "64 bit",
     "os_arch_gen": "Generic",
- 
+
 
     "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. Be careful!",
     "download_started": "Your download has started. Thanks for choosing Tox!",
     "download_started2": "Your download has started. Happy Toxing!",
-    "download_compile": "Automated compilation scripts"
-}
+    "download_compile": "Automated compilation scripts",
 
+    "sect6_mailinglist_title": "Keep in the loop",
+    "sect6_mailinglist": "Subscribe to our mailing list for updates about Tox's progress.",
+    "sect6_email": "email address",
+
+    "sect6_needhelp": "Need some help?",
+    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "dev_links": "Developer Links",
+    "dev_blog": "Development blog",
+    "dev_docs": "Documentation"
+}
