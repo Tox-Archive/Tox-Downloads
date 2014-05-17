@@ -1,0 +1,46 @@
+{
+    "_author": "LumenTeun",
+    "_language": "Svenska",
+    "_ind": 0,
+
+    "lf_title": "Tox: En Ny Sorts Chatt",
+
+    "nv_home": "Hem",
+    "nv_about": "Om",
+    "nv_features": "Funktioner",
+    "nv_contribute": "Bidra",
+    "nv_wiki": "Wiki",
+    "slogan": "En Ny Sorts Chatt",
+    "downloads": "Nerladdningar",
+
+    "os_choose": "Vänligen välj ditt operativsystem.",
+    "os_fail": "Vi kunde inte se vilket operativsystem du har.",
+    "os_detected_wrong": "Skaffa Tox för ",
+    "os_windows": "Windows",
+    "os_mac": "Macintosh",
+    "os_linux": "Linux",
+    "os_iphone": "iOS",
+    "os_android": "Android",
+    "os_other": "Annat",
+    "os_os": "Operativsystem",
+    "os_arch_32": "32 bit",
+    "os_arch_64": "64 bit",
+    "os_arch_gen": "Generisk",
+
+
+    "download_warning": "Nightlies är inte för de svaghjärtade, du kan stöta på buggar, krashar, och höga doser frustration. Du har blivit varnad!",
+    "download_started": "Din nerdladdning har påbörjats. Tack för att du väljer Tox!",
+    "download_started2": "Din nerladdning har påbörjats. Toxa på!",
+    "download_compile": "Automatiserade kompilationsscript",
+
+    "sect6_mailinglist_title": "Håll dig uppdaterad",
+    "sect6_mailinglist": "Anmäl dig till våran utskickslista för uppdateringar om Tox.",
+    "sect6_email": "e-postadress",
+
+    "sect6_needhelp": "Behöver du hjälp?",
+    "sect6_githubtoirc": "Starta ditt eget projekt och fråga os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "dev_links": "Utvecklarlänkatr",
+    "dev_blog": "Utvecklingsblogg",
+    "dev_docs": "Dokumentation"
+}
