@@ -1,0 +1,47 @@
+{
+    "_author": "Haowu Ge",
+    "_language": "简体中文",
+    "_comment": "Only translate from this file, not the others!",
+    "_ind": 0,
+
+    "lf_title": "Tox: 全新的即时通讯",
+
+    "nv_home": "主页",
+    "nv_about": "关于",
+    "nv_features": "特征",
+    "nv_contribute": "贡献",
+    "nv_wiki": "维基",
+    "slogan": "全新的即时通讯",
+    "downloads": "下载",
+
+    "os_choose": "选择您的操作系统。",
+    "os_fail": "无法确认您的操作系统。",
+    "os_detected_wrong": "下载版本",
+    "os_windows": "Windows",
+    "os_mac": "Macintosh",
+    "os_linux": "Linux",
+    "os_iphone": "iOS",
+    "os_android": "Android",
+    "os_other": "其他",
+    "os_os": "操作系統",
+    "os_arch_32": "32位",
+    "os_arch_64": "64位",
+    "os_arch_gen": "通用",
+
+
+    "download_warning": "心理脆弱的用户，请勿下载每日编译版。您可能会遇到软件 BUG ，软件崩溃，已经其它更多问题。请三思而行！",
+    "download_started": "您的下载已经开始，感谢您选择 Tox ！",
+    "download_started2": "您的下载已经开始，祝快乐使用 Tox ！",
+    "download_compile": "自动编译脚本",
+
+    "sect6_mailinglist_title": "跟踪最新进展",
+    "sect6_mailinglist": "订阅我们的邮件列表以了解更多 Tox 最近进展",
+    "sect6_email": "电子邮件地址",
+
+    "sect6_needhelp": "需要一些帮助？",
+    "sect6_githubtoirc": "建立你自己的项目并且让我们加入 <span class=\"text normal\">GitHub</span> ，或是 <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a> ！",
+
+    "dev_links": "开发者链接",
+    "dev_blog": "开发者博客",
+    "dev_docs": "文档"
+}
