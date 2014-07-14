@@ -40,7 +40,7 @@
     "sect6_needhelp": "Behöver du hjälp?",
     "sect6_githubtoirc": "Starta ditt eget projekt och fråga os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
 
-    "dev_links": "Utvecklarlänkatr",
+    "dev_links": "Utvecklarlänkar",
     "dev_blog": "Utvecklingsblogg",
     "dev_docs": "Dokumentation"
 }
