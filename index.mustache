@@ -16,9 +16,9 @@
 	<link rel="stylesheet" href="assets/css/tuktuk.theme.min.css">
 	<link rel="stylesheet" href="assets/css/tuktuk.icons.min.css">
 </head>
-
+ 
 <body>
-
+ 
 <header class="bck light padding">
 		<div class="row">
 			<div class="column_2">
@@ -32,7 +32,7 @@
 			</nav>
 		</div>
 	</header>
-
+ 
 	<section class="bck dark padding" id="home">
 		<div class="row text center book margin-bottom">
 			<div class="column_10 offset_1">
@@ -42,19 +42,15 @@
 			</div>
 		</div>
 		<div class="row text center">
-			<table id="t2">
-			<tr class="logo" >
-			<td>
-			<a href="//tox.im/downloads/windows"><img alt="windows" height="175" src="assets/imgs/windows.png" /><h4>{{{os_windows}}}</h4> </a>
-			</td>
-			<td>
-			<a href="//tox.im/downloads/mac"><img alt="apple" height="175" src="assets/imgs/apple.png" /><h4 >{{{os_mac}}}</h4></a>
-			</td>
-			<td>
-			<a href="linux.html"> <img alt="linux" height="175" src="assets/imgs/linux.png" /><h4 >{{{os_linux}}}</h4></a>
-			</td>
-			</tr>
-			</table>
+			<div class="column_4">
+			<a href="https://jenkins.libtoxcore.so/job/utox_update_win32/lastSuccessfulBuild/artifact/utox-updater.zip"><img alt="windows" height="175" src="assets/imgs/windows.png" /><h4>{{{os_windows}}}</h4> </a>
+			</div>
+			<div class="column_4">
+			<a href="https://jenkins.libtoxcore.so/job/ToxGUI%20OS%20X/lastSuccessfulBuild/artifact/toxgui.dmg"><img alt="apple" height="175" src="assets/imgs/apple.png" /><h4>{{{os_mac}}}</h4></a>
+			</div>
+			<div class="column_4">
+			<a href="linux.html"> <img alt="linux" height="175" src="assets/imgs/linux.png" /><h4>{{{os_linux}}}</h4></a>
+			</div>
 		</div>
 	</section>
 	<script type="text/javascript" defer="" async="" src="piwik/piwik.js"></script>
@@ -62,7 +58,7 @@
 	  var _paq = _paq || [];
 	  _paq.push(["trackPageView"]);
 	  _paq.push(["enableLinkTracking"]);
-
+ 
 	  (function() {
 	    var u=(("https:" == document.location.protocol) ? "https" : "http") + "piwik/";
 	    _paq.push(["setTrackerUrl", u+"piwik.php"]);
