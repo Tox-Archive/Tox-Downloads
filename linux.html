@@ -16,9 +16,9 @@
 	<link rel="stylesheet" href="assets/css/tuktuk.theme.min.css">
 	<link rel="stylesheet" href="assets/css/tuktuk.icons.min.css">
 </head>
-
+ 
 <body>
-
+ 
 <header class="bck light padding">
 		<div class="row">
 			<div class="column_2">
@@ -32,8 +32,8 @@
 			</nav>
 		</div>
 	</header>
-
-
+ 
+ 
 	<section class="bck dark padding" id="home">
 		<div class="row text center book margin-bottom">
 			<div class="column_10 offset_1">
@@ -41,39 +41,29 @@
 			</div>
 		</div>
 		<div class="row text center">
-			<div>
-			<table id="t1">
-			<tr>
-			<td>
-			<a class="logo" href="//tox.im/downloads/deb"><img alt="ubuntu" height="175" src="assets/imgs/linux/ubuntu.png" /> <h4 style="margin-left:100px;">Ubuntu</h4> </a>
-			</td>
-			<td>
-			<a class="logo" href="//tox.im/downloads/rpm"><img alt="fedora" height="175" src="assets/imgs/linux/fed.png" /><h4 style="margin-left:100px;"> Fedora</h4></a>
-			</td>
-			<td>
-			<a class="logo" href="//tox.im/downloads/deb"> <img alt="debian" height="175" src="assets/imgs/linux/deb.png" /><h4 style="margin-left:100px;"> Debian </h4></a>
-			</td>
-			</tr>
-			<tr>
-			<td>
-			<div class="logo"><a id="suse" href="//tox.im/downloads/rpm"><img alt="suse" height="175" src="assets/imgs/linux/suse.png" /><h4> Suse </h4></a>
+			<div class="column_4">
+    			<a href="https://jenkins.libtoxcore.so/job/Linux-Venom-AMD64/lastSuccessfulBuild/artifact/venom/build/Venom-0.2.0-Linux.deb"><img alt="ubuntu" height="175" src="assets/imgs/linux/ubuntu.png" /> <h4 style="text center">Ubuntu</h4> </a>
 			</div>
-			</td>
-			<td>
-			<a class="logo" href="//tox.im/downloads/rpm"><img alt="rhel" height="175" src="assets/imgs/linux/rhel.png" /> <h4 style="margin-left:100px;">Red Hat </h4></a>
-			</td>
-			<td>
-			<a class="logo" href="javascript:void(0)" onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><img alt="source" height="175" src="assets/imgs/source.png" /><h4 style="margin-left:100px;">  Other </h4></a>
-		    <div id="light" class="white_content">Arch users can go <a style ="color:#FEB41C;" href="https://aur.archlinux.org/packages/venom-git/" >here</a>.
-   			<br><br> Gentoo users can use the overlay <a style ="color:#FEB41C;" href="https://github.com/fr0stycl34r/gentoo-overlay-tox"> here</a>.
-   			<br><br> FreeBSD users can install Venom using the <a style ="color:#FEB41C;" href="https://www.freshports.org/net-im/venom">/net-im/venom in ports.</a>.
-   			<br><br>For other distributions or operating systems, you can either <a style ="color:#FEB41C;" href="https://github.com/naxuroqa/Venom">compile Tox from source</a>,<br> or download the generic I686 (32 bit) Linux binary <a style ="color:#FEB41C;" href="//tox.im/downloads/generic"> here</a>. Generic AMD64 Linux binary (64 bit) is available <a style ="color:#FEB41C;" href="//tox.im/downloads/generic64">here</a>.
-     		<br><br><a style ="color:#FEB41C;" href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a>
-     		</div>
-    		<div id="fade" class="black_overlay"></div>
-			</td>
-			</tr>
-			</table>
+			<div class="column_4">
+    			<a href="https://jenkins.libtoxcore.so/job/Linux-Venom-AMD64/lastSuccessfulBuild/artifact/venom/build/Venom-0.2.0-Linux.rpm"><img alt="fedora" height="175" src="assets/imgs/linux/fed.png" /><h4 style="text center"> Fedora</h4></a>
+			</div>
+			<div class="column_4">
+    			<a href="https://jenkins.libtoxcore.so/job/Linux-Venom-AMD64/lastSuccessfulBuild/artifact/venom/build/Venom-0.2.0-Linux.deb"> <img alt="debian" height="175" src="assets/imgs/linux/deb.png" /><h4 style="text center"> Debian </h4></a>
+			</div>
+			<div class="column_4">
+    			<a href="https://jenkins.libtoxcore.so/job/Linux-Venom-AMD64/lastSuccessfulBuild/artifact/venom/build/Venom-0.2.0-Linux.rpm"><img alt="suse" height="175" src="assets/imgs/linux/suse.png" /><h4> Suse </h4></a>
+			</div>
+			<div class="column_4">
+    			<a href="https://jenkins.libtoxcore.so/job/Linux-Venom-AMD64/lastSuccessfulBuild/artifact/venom/build/Venom-0.2.0-Linux.rpm"><img alt="rhel" height="175" src="assets/imgs/linux/rhel.png" /> <h4 style="text center">Red Hat </h4></a>
+			</div>
+			<div class="column_4">
+    			<a href="javascript:void(0)" onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><img alt="source" height="175" src="assets/imgs/source.png" /><h4 style="text center">  Other </h4></a>
+       			<div id="light" class="white_content">32 bit downloads coming soon. <br><br> Gentoo users can use the overlay <a style ="color:#FEB41C;" href="https://github.com/fr0stycl34r/gentoo-overlay-tox"> here</a>.
+          			<br><br> FreeBSD users can install Venom using the <a style ="color:#FEB41C;" href="https://www.freshports.org/net-im/venom">/net-im/venom in ports.</a>.
+           			<br><br>For other distributions or operating systems, you can either <a style ="color:#FEB41C;" href="https://github.com/naxuroqa/Venom">compile Tox from source</a>,<br> or download the generic i686 (32 bit) Linux binary <a style ="color:#FEB41C;" href="//tox.im/downloads/generic"> here</a>.<br> Generic AMD64 Linux binary (64 bit) is available <a style ="color:#FEB41C;" href="https://jenkins.libtoxcore.so/job/Linux-Venom-AMD64/lastSuccessfulBuild/artifact/venom/build/Venom-0.2.0-Linux.tar.gz">here</a>.
+             		<br><br><a style ="color:#FEB41C;" href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a>
+         		</div>
+        		<div id="fade" class="black_overlay"></div>
 			</div>
 		</div>
 	</section>
@@ -83,7 +73,7 @@
 	  var _paq = _paq || [];
 	  _paq.push(["trackPageView"]);
 	  _paq.push(["enableLinkTracking"]);
-
+ 
 	  (function() {
 	    var u=(("https:" == document.location.protocol) ? "https" : "http") + "piwik/";
 	    _paq.push(["setTrackerUrl", u+"piwik.php"]);
