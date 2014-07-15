@@ -1,0 +1,47 @@
+{
+    "_author": "nurupo and carbon-14",
+    "_language": "Русский",
+    "_comment": "Only translate from this file, not the others!",
+    "_ind": 0,
+
+    "lf_title": "Tox: Новый способ обмена сообщениями",
+
+    "nv_home": "Начало",
+    "nv_about": "О проекте",
+    "nv_features": "О программе",
+    "nv_contribute": "Стать участником",
+    "nv_wiki": "Вики",
+    "slogan": "Tox: Новый способ обмена сообщениями",
+    "downloads": "Загрузки",
+
+    "os_choose": "Выберите вашу операционную систему.",
+    "os_fail": "Мы не смогли определить вашу операционную систему.",
+    "os_detected_wrong": "Загрузить Tox для ",
+    "os_windows": "Windows",
+    "os_mac": "Macintosh",
+    "os_linux": "Linux",
+    "os_iphone": "iOS",
+    "os_android": "Android",
+    "os_other": "Другие",
+    "os_os": "Operating System",
+    "os_arch_32": "32 bit",
+    "os_arch_64": "64 bit",
+    "os_arch_gen": "Generic",
+
+
+    "download_warning": "Ночные автоматические сборки не для слабых сердцем, вы можете столкнуться с ошибками, сбоями, и большой дозой недовольства. Будьте осторожны!",
+    "download_started": "Ваша загрузка началась. Спасибо, что вы выбрали Tox!",
+    "download_started2": "Ваша загрузка началась. Приятного общения!",
+    "download_compile": "Скрипты для автоматической сборки",
+
+    "sect6_mailinglist_title": "Будьте в курсе событий",
+    "sect6_mailinglist": "Подпишитесь на рассылку чтобы узнавать о ходе разработки Tox.",
+    "sect6_email": "адрес электронной почты",
+
+    "sect6_needhelp": "Нужна помощь?",
+    "sect6_githubtoirc": "Начните свой проект и свяжитесь с нами на <span class=\"text normal\">GitHub</span>, или в чате <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "dev_links": "Ссылки для разработчиков",
+    "dev_blog": "Блог разработчиков",
+    "dev_docs": "Документация"
+}
