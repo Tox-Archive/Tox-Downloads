@@ -22,7 +22,7 @@
     "os_linux": "Linux",
     "os_iphone": "iOS",
     "os_android": "Android",
-    "os_other": "Другие",
+    "os_other_advanced": "Другие",
     "os_os": "Operating System",
     "os_arch_32": "32 bit",
     "os_arch_64": "64 bit",

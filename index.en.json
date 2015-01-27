@@ -22,17 +22,19 @@
     "os_linux": "Linux",
     "os_iphone": "iOS",
     "os_android": "Android",
-    "os_other": "Other",
+    "os_other_advanced": "Other / Advanced",
     "os_os": "Operating System",
     "os_arch_32": "32 bit",
     "os_arch_64": "64 bit",
     "os_arch_gen": "Generic",
 
+    "linux_choose_distro": "Please choose your distribution",
 
     "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. Be careful!",
     "download_started": "Your download has started. Thanks for choosing Tox!",
     "download_started2": "Your download has started. Happy Toxing!",
     "download_compile": "Automated compilation scripts",
+    "download_advanced": "Advanced user? We have more options on our Wiki",
 
     "sect6_mailinglist_title": "Keep in the loop",
     "sect6_mailinglist": "Subscribe to our mailing list for updates about Tox's progress.",

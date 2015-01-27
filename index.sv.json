@@ -21,7 +21,7 @@
     "os_linux": "Linux",
     "os_iphone": "iOS",
     "os_android": "Android",
-    "os_other": "Annat",
+    "os_other_advanced": "Annat",
     "os_os": "Operativsystem",
     "os_arch_32": "32 bit",
     "os_arch_64": "64 bit",

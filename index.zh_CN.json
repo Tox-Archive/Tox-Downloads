@@ -22,7 +22,7 @@
     "os_linux": "Linux",
     "os_iphone": "iOS",
     "os_android": "Android",
-    "os_other": "其他",
+    "os_other_advanced": "其他",
     "os_os": "操作系統",
     "os_arch_32": "32位",
     "os_arch_64": "64位",
