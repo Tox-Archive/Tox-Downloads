@@ -28,6 +28,7 @@
     "os_arch_64": "64-bits",
     "os_arch_gen": "Generic",
 
+    "linux_choose_distro": "Kies uw distributie",
 
     "download_warning": "De Nightlies zijn niet voor de doorsnee gebruiker, Verwacht bugs, crashes, en vele frustratie! Wees gewaarschuwd!",
     "download_started": "Uw download is gestart. Bedankt voor het kiezen voor Tox!",
