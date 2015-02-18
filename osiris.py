@@ -2,11 +2,11 @@ import json, glob
 
 def runonce():
     lang_json = {}
-    lang_dir = "app/download/*.json"
+    lang_dir = "/etc/osiris/app/download/*.json"
 
     for lang in glob.glob(lang_dir):
         lang_code = lang.split('.')[1]
-        file_obj = open("app/download/index." + lang_code + ".json")
+        file_obj = open("/etc/osiris/app/download/master." + lang_code + ".json")
         lang_json[lang_code] = json.loads(file_obj.read())
         file_obj.close()
 
