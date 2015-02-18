@@ -18,4 +18,9 @@ def reply(msg):
     except:
         lang = 'en'
 
-    return { "code": 200, "file": "index.mustache", "template": msg['runonce'][lang] }
+    if msg['header']['PATH'] == '/linux':
+        return { "code": 200, "file": "linux.mustache", "template": msg['runonce'][lang] }
+    elif msg['header']['PATH'] == '/':
+        return { "code": 200, "file": "index.mustache", "template": msg['runonce'][lang] }
+    else:
+        return { "code":404, msg: "File not found"}
